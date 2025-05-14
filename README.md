@@ -1,4 +1,4 @@
-# 💍 Luxury Jewelry Landing Page – Visual & Front-End Practice
+# 💍 Jewelry Page – Visual & Front-End Practice
 
 ## Overview:
 - I created this marketing-style landing page as a visual and front-end coding exercise.
@@ -7,7 +7,6 @@
 ## Technologies Used:
 - HMTL5
 - CSS3
-- JavaScript
 
 ## Project Links:
 
