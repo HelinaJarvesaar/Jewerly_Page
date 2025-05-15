@@ -10,7 +10,7 @@
 
 ## Project Links:
 
-- [LINK to Responsive Page](https://helinajarvesaar.github.io/littleLuxuryJewerlyPage)
+- [LINK to Responsive Page](https://helinajarvesaar.github.io/Jewerly_Page/)
 
 
 ## Screenshot:
